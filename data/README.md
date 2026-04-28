@@ -69,24 +69,4 @@ data/
 - Шаблонность (repetitive_ngrams, etc.)
 - Рейтинг (is_max_rating, rating_text_mismatch, etc.)
 
-## Как создать данные
 
-1. Запустите парсер:
-```bash
-python src/parser.py
-```
-
-2. Разметьте данные:
-```bash
-python src/labeler.py
-```
-
-3. Создайте признаки:
-```bash
-python src/features.py
-```
-
-## Примечание
-
-Файлы данных не включены в git (см. .gitignore).
-Вам нужно собрать их самостоятельно, следуя инструкциям выше.
