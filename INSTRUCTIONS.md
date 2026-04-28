@@ -231,8 +231,8 @@ pip install -r requirements.txt --force-reinstall
 ## Контакты
 
 Для вопросов и предложений:
-- GitHub Issues: https://github.com/yourusername/fake_review_detector_wb/issues
-- Email: your.email@example.com
+- GitHub Issues: https://github.com/Rus18mc/fake_review_detector_wb/issues
+- Email: artemyhogg@gmail.com
 
 ## Лицензия
 
